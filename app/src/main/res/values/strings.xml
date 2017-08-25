@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpookySpiderSmash</string>
+
+    <string name="button_play">PLAY</string>
+    <string name="button_high_score">HIGH SCORE</string>
+</resources>
